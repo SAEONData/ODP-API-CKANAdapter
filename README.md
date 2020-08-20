@@ -1,5 +1,7 @@
 # CKAN Adapter for the ODP API
 
+***This project has been merged into [Open-Data-Platform](https://github.com/SAEONData/Open-Data-Platform).***
+
 ## Installation
 
 Requires Python 3.8
